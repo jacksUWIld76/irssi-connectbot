@@ -1,6 +1,4 @@
-#summary Source
 #labels Featured
-
 Find sources from Github:
 
 https://github.com/iiuusit/connectbot
