@@ -1,4 +1,4 @@
 #labels Featured
 Find sources from *Github*:
 
-=https://github.com/irssiconnectbot=
+=http://github.com/irssiconnectbot=
