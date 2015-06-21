@@ -1,0 +1,4 @@
+### Q: Does Irssi ConnectBot has pageup and pagedown? ###
+A: Yes, swipe finger from top to bottom and bottom to top at left side of screen.
+
+---
